@@ -13,15 +13,13 @@ A cute cat-themed website that mixes daily motivation with fun interactive stuff
 
 ### 🎮 Fun Bits
 - **Kitty Jump Game**: Cute jumping game where you avoid yarn balls
-- **Unlockable Cats**: Earn new cat avatars as you play
 - **Cat Facts**: Random interesting facts about cats
 - **Voice Reactions**: The game talks to you!
 
 ### 📱 Works Everywhere
 - **Phones & Tablets**: Perfectly sized for mobile
 - **Laptops**: Looks great on bigger screens too
-- **No App Needed**: Just open in any browser
-- **Add to Home Screen**: Use it like an app
+- **No App Needed**: Just open in any browser: https://kitcat-one.vercel.app/
 
 ## How to Use
 
@@ -30,26 +28,24 @@ Just open the website link and start using it! No downloads, no installs.
 
 **On Your Phone:**
 - Open the link in Chrome/Safari
-- Tap share → "Add to Home Screen"
-- Now it's like an app on your phone!
-
+- 
 ## Tech Stuff (For Nerds)
-
-- Pure HTML/CSS/JavaScript - no frameworks needed
+- Pure HTML - no frameworks needed
 - Everything saves in your browser (no server)
 - Works offline after first visit
-- Free hosting on Vercel/Netlify
+- Free hosting on Vercel
 
 ## Cool Features
 
 - **Your data stays private** - everything saves to your own device
 - **Cute animations** - floating cats and smooth transitions  
-- **Game progress saves** - your high scores and unlocked cats remember
+- **Game progress saves** - your high scores 
 - **Themes change everything** - colors, backgrounds, even the floating elements
 
 ## Why I Made This
 
 Wanted to create something that makes people smile while being actually useful. Who doesn't love cats and positive vibes? 
+(Also wanted to try to make a project on my own for fun :P)
 
 Perfect for:
 - Quick motivation breaks
